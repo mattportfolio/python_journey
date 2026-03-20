@@ -13,4 +13,4 @@ This repository is where I store all my scripsts and projects as I learn Python.
 
 ### 🛠️ Learning Resources
 - I am currently following ..........
-- Improving my English while I code! **🇵🇱 - 🇺🇸, 🇬🇧, 🇮🇪 and many others** 
+- Improving my English while I code! **🇵🇱 - 🇺🇸, 🇬🇧, 🇮🇪 and many others**
