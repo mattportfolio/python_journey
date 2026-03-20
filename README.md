@@ -2,3 +2,15 @@
 
 <br>
 <br>
+
+# 🐍 My Python Journey
+
+This repository is where I store all my scripsts and projects as I learn Python. My goal is to build something every day for the next 10 years!
+
+### 🚀 What's Inside?
+- 'rock_paper_scisor.py': My not so first (I did a few Phython projects before, not published tho) 
+- 'next_project.py' : Coming soon!
+
+### 🛠️ Learning Resources
+- I am currently following ..........
+- Improving my English while I code! **🇵🇱 - 🇺🇸, 🇬🇧, 🇮🇪 and many others** 
