@@ -1,4 +1,4 @@
-#Mateusz Drozdz
+#Mateusz Drozdz, made on Phyton Online IDE.
 
 def add(a, b):
     return a + b
