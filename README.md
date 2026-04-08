@@ -9,8 +9,9 @@ This repository is where I store all my scripsts and projects as I learn Python.
 
 ### 🚀 What's Inside?
 - 'basic_calculator and basic_calculator_v2' - My first published projects!
-- 'next_project.py' : Coming soon!
+- 'rock_paper_scissors_v1.py' : Rock Paper Scissors Player vs Bot game!
 
 ### 🛠️ Learning Resources
 - I am currently following ..........
-- Improving my English while I code! **🇵🇱 - 🇺🇸, 🇬🇧, 🇮🇪 and many others**
+  
+ ##Improving my English while I code! **🇵🇱 - 🇺🇸, 🇬🇧, 🇮🇪 and many others**##
